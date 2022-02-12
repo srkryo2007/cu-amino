@@ -15,7 +15,7 @@ import os
 from os import path
 from random import uniform, choice, randint
 
-client=BotAmino("jkbot2007@gmail.com", "gomes2007")
+client=BotAmino("teu nome", "tua senha")
 client.self_callable = True
 
 @client.command("ping") 
